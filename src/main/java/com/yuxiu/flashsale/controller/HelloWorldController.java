@@ -1,4 +1,4 @@
-package com.yuxiu.seckill.controller;
+package com.yuxiu.flashsale.controller;
 
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

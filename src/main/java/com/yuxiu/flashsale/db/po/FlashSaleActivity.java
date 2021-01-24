@@ -1,9 +1,9 @@
-package com.yuxiu.seckill.db.po;
+package com.yuxiu.flashsale.db.po;
 
 import java.math.BigDecimal;
 import java.util.Date;
 
-public class SeckillActivity {
+public class FlashSaleActivity {
     private Long id;
 
     private String name;
@@ -12,7 +12,7 @@ public class SeckillActivity {
 
     private BigDecimal oldPrice;
 
-    private BigDecimal seckillPrice;
+    private BigDecimal flashSalePrice;
 
     private Integer activityStatus;
 
@@ -58,12 +58,12 @@ public class SeckillActivity {
         this.oldPrice = oldPrice;
     }
 
-    public BigDecimal getSeckillPrice() {
-        return seckillPrice;
+    public BigDecimal getFlashSalePrice() {
+        return flashSalePrice;
     }
 
-    public void setSeckillPrice(BigDecimal seckillPrice) {
-        this.seckillPrice = seckillPrice;
+    public void setFlashSalePrice(BigDecimal flashSalePrice) {
+        this.flashSalePrice = flashSalePrice;
     }
 
     public Integer getActivityStatus() {

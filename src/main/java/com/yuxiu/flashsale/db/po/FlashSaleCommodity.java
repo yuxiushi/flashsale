@@ -1,6 +1,6 @@
-package com.yuxiu.seckill.db.po;
+package com.yuxiu.flashsale.db.po;
 
-public class SeckillCommodity {
+public class FlashSaleCommodity {
     private Long id;
 
     private String commodityName;

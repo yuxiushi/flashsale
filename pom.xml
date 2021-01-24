@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.yuxiu</groupId>
-    <artifactId>seckill</artifactId>
+    <artifactId>flashsale</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>seckill</name>
+    <name>flashsale</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

@@ -1,4 +1,4 @@
-package com.yuxiu.seckill.db;
+package com.yuxiu.flashsale.db;
 
 import org.mybatis.generator.api.MyBatisGenerator;
 import org.mybatis.generator.config.Configuration;
