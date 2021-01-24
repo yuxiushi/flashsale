@@ -1,2 +1,2 @@
-# seckill
-Demo for seckill function
+# flashsale
+Demo for flashsale function
