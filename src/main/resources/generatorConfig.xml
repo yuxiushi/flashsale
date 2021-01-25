@@ -61,6 +61,14 @@
                enableSelectByExample="false" enableUpdateByExample="false" selectByExampleQueryId="false">
         </table>
 
+        <table schema="" tableName="flash_sale_order" domainObjectName="FlashSaleOrder" enableCountByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" enableUpdateByExample="false" selectByExampleQueryId="false">
+        </table>
+
+        <table schema="" tableName="flash_sale_user" domainObjectName="FlashSaleUser" enableCountByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" enableUpdateByExample="false" selectByExampleQueryId="false">
+        </table>
+
 
         <!-- 有些表的字段需要指定java类型
          <table schema="" tableName="">
