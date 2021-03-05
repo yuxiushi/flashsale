@@ -8,6 +8,7 @@ public class FlashSaleApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(FlashSaleApplication.class, args);
+
     }
 
 }
